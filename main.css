@@ -1,0 +1,44 @@
+body{
+    background-color: white;
+}
+
+.nav{
+    font-weight: normal;
+}
+
+.nav a{
+    text-decoration: none;
+    padding: 8px 8px 8px 8px;
+}
+
+.head{
+    margin-top: 8px;
+    border-radius: 8px;
+}
+
+.head h1{
+    padding-top: 60px;
+}
+
+.head p{
+    font-size: 20px;
+}
+
+.headbtn{
+    padding-bottom: 60px;
+}
+
+.classes{
+    background-color: lightcyan;
+    padding: 50px;
+}
+
+.footer{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 130px;
+}
+
+.footer span{
+    padding-left: 750px;
+}
